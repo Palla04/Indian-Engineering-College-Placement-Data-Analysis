@@ -33,12 +33,13 @@ The project uses **data analysis and visualization techniques** to help understa
 - **Analysis Page 2.png** -Image of the second dashboard.
 ### README.md
 - **Project documentation**
-- 
+
 ---
 
 ## Data Preprocessing
-The raw dataset was cleaned and transformed before analysis.The dataset containing two sheets:
+The raw dataset was cleaned and transformed before analysis.
 
+The dataset contains two sheets:
 - **indian_engineering_student_placement** (student academic, personal, and skill details)  
 - **placement_targets** (placement status and salary information)  
 
