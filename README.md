@@ -39,9 +39,7 @@ The project uses **data analysis and visualization techniques** to help understa
 ## Data Preprocessing
 The raw dataset was cleaned and transformed before analysis.
 
-The dataset contains two sheets:
-- **indian_engineering_student_placement** (student academic, personal, and skill details)  
-- **placement_targets** (placement status and salary information)  
+The dataset contains two sheets: **indian_engineering_student_placement** (student academic, personal, and skill details), **placement_targets** (placement status and salary information).
 
 - Removed missing/null values  
 - Standardized column names  
