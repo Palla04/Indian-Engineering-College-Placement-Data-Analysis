@@ -31,9 +31,9 @@ The project uses **data analysis and visualization techniques** to help understa
 ### Dashboard
 - **Analysis Page 1.png** 
 - **Analysis Page 2.png**
-- Images of the final dashboard created for analysis.
+  Images of the final dashboard created for analysis.
 ### README.md
-- **Project documentation**
+ ***Project documentation***
 ---
 
 ## Data Preprocessing
