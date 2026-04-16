@@ -29,11 +29,11 @@ The project uses **data analysis and visualization techniques** to help understa
 ### Dashboard
 - **Pivot Table 1.pdf** – Contains pivot tables and calculated metrics used for insights.
 ### Dashboard
-- **Analysis Page 1.png** 
-- **Analysis Page 2.png**
-  Images of the final dashboard created for analysis.
+- **Analysis Page 1.png** -Image of the first dashboard.
+- **Analysis Page 2.png** -Image of the second dashboard.
 ### README.md
- ***Project documentation***
+- **Project documentation**
+- 
 ---
 
 ## Data Preprocessing
