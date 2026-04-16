@@ -68,7 +68,7 @@ The dataset contains two sheets: **indian_engineering_student_placement** (stude
 
 ## Analysis 1 Preview
 
-![Dashboard Preview](Dashboard/Analysis Page 1.png)
+![Analysis 1 Preview](Dashboard/Analysis Page 1.png)
 
 ---
 
@@ -85,7 +85,7 @@ The dataset contains two sheets: **indian_engineering_student_placement** (stude
 
 ## Analysis 2 Preview
 
-![Dashboard Preview](Dashboard/Analysis Page 2.png)
+![Analysis 2 Preview](Dashboard/Analysis Page 2.png)
 
 ---
 
