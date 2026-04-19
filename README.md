@@ -19,6 +19,9 @@ The project uses **data analysis and visualization techniques** to help understa
 ## Dataset Link
 - **https://www.kaggle.com/datasets/vishardmehta/indian-engineering-college-placement-dataset**
 
+## Dashboard Link
+- **https://datastudio.google.com/reporting/2b87c3ab-2e61-4980-b095-0b03c7b858e4**
+
 ---
 
 ## Project Structure
